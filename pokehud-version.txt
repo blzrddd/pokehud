@@ -1,7 +1,6 @@
-4.1.1
+4.2.0
 
-Nouveau : les skins Black Friday sont maintenant reconnus (cadre gris « BF »)
-Assistant reproduction : /repro et Trouver un oeuf
-Pâturage : le couple et un minuteur d'oeuf
-/recyclage tout neuf : tes doublons en un clic
-Tri du PC par IV, région, type, niveau, nom ou stratégie
+Nouveau /dex : pourcentage exact, vrais objets des paliers et bulles d'info
+Pokédex en 3 styles : Cobblemon, Récent (3D) ou Old gen (2D)
+Recherche de butins : tape un objet et vois quels Pokémon le donnent
+correction de bugs 
