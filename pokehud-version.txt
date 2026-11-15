@@ -1,5 +1,6 @@
-4.1.0
+4.1.1
 
+Nouveau : les skins Black Friday sont maintenant reconnus (cadre gris « BF »)
 Assistant reproduction : /repro et Trouver un oeuf
 Pâturage : le couple et un minuteur d'oeuf
 /recyclage tout neuf : tes doublons en un clic
