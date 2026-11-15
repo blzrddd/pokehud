@@ -1,0 +1,8 @@
+# Skins du serveur lus par PokeHUD. Une ligne par skin :
+# marqueur | Nom affiché | couleur | reflet | lueur | espèces (vide = toutes)
+eclipse | Éclipse | 3A0F4A | FF6A5A | C0203F | arcanine,banette,bulbasaur,ceruledge,chandelure,cyndaquil,dragonite,empoleon,espeon,garchomp,gengar,giratina,gliscor,mewtwo,mimikyu,mismagius,psyduck,sceptile,swellow,trevenant
+summer | Été | FF9F1C | FFF27A | FFC300 | blastoise,charizard,chatot,floatzel,gardevoir,greninja,kyogre,lapras,lilligant,lucario,ludicolo,meloetta,oricorio,pelipper,pikachu,primarina,rillaboom,sylveon,toxtricity,volcarona
+halloween | Halloween | FF7A00 | FFD08A | 8A2BE2 | absol,crobat,darkrai,delphox,dusknoir,froslass,honchkrow,houndoom,lunala,meowscarada,ninetales,noivern,sableye,salazzle,spiritomb,zoroark
+novembre | Novembre | B5522B | FFC07A | D9772E | blastoise,chienpao,diancie,empoleon,gardevoir,snorlax,torterra
+blackfriday | Black Friday | 6E7480 | D8DCE4 | 9AA0AC |
+black_friday | Black Friday | 6E7480 | D8DCE4 | 9AA0AC |
