@@ -1,6 +1,7 @@
-4.2.0
+4.3.0
 
-Nouveau /dex : pourcentage exact, vrais objets des paliers et bulles d'info
-Pokédex en 3 styles : Cobblemon, Récent (3D) ou Old gen (2D)
-Recherche de butins : tape un objet et vois quels Pokémon le donnent
-correction de bugs 
+Nouveau menu Résumé (touche virgule) : 3 styles au choix
+Nouveau menu Évolutions sur chaque Pokémon
+GTS custom + nouveau tri Bonnes affaires (les meilleures offres)
+Système de strat : refonte visuelle
+PC, Pokédex et HUD : nouveaux thèmes, texte plus net
